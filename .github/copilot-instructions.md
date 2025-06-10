@@ -1,5 +1,5 @@
 <!-- UNITY CODE ASSIST INSTRUCTIONS START -->
-- Project name: CircuitHeirRemake
+- Project name: Circuit Heir Fork
 - Unity version: Unity 6000.0.49f1
 - Active scene:
   - Name: BasicScene
@@ -8,7 +8,7 @@
   - Layers:
     - Default, TransparentFX, Ignore Raycast, Water, UI, Robot Parts
 - Active game object:
-  - Name: РаспилТулово
+  - Name: ak
   - Tag: Untagged
   - Layer: Default
 <!-- UNITY CODE ASSIST INSTRUCTIONS END -->

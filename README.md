@@ -36,3 +36,5 @@ https://github.com/user-attachments/assets/771dbe7e-c91c-4fd4-9987-5da6c0a675dd
 - (Hold) Shift + G — поднять предмет
 - (Hold) Shift + W/S — отдалить/приблизить поднятый предмет
 - Shift — отпустить предмет
+
+Проверка изменений в форке

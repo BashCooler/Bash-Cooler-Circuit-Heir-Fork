@@ -25,7 +25,7 @@ public class ItemConnector : MonoBehaviour
         // У родителя обязательно должен быть parentJointPoint.
         Transform parentJointPos = this.transform.Find("parentJointPoint");
         other.transform.position = parentJointPos.position;
-        other.transform.localEulerAngles = rotation;
+        other.transform.localRotation = Quaternion.Euler(rotation);
 
         // Переместить на разность позиции центра other и его точки соединения.
         // JointPoint должен быть у всех объектов, которые к чему-либо крепятся.
